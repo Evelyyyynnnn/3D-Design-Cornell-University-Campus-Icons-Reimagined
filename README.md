@@ -10,7 +10,18 @@
 - 人类生态学大楼（Human Ecology Building）：这座建筑体现了可持续与教育艺术的结合，采用环保设计，拥有绿色屋顶和高效能量系统。  ￼
 
 
-我使用了 [tripo3d.ai](https://www.tripo3d.ai/app/)
+
+Some 3D platforms that usually use with LLM includes:
+- [Tripo3d.ai](https://www.tripo3d.ai/app/)
+- [Artefacts.ai](https://artefacts.ai/)
+- [Meshy AI](https://www.meshy.ai/discover)
+- [Genie](https://lumalabs.ai/genie?view=create)
+- [Spline AI](https://spline.design/)
+- [Sudo AI](https://www.sudo.ai/)
+- [3d.csm.ai](https://3d.csm.ai/)
+- [Imagine 3D](https://lumalabs.ai/dashboard/imagine)
+
+- 
 效果如下：
 精度一般
 
