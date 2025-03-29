@@ -28,28 +28,6 @@ The following landmarks have been faithfully reconstructed or stylized using 3D 
 
 ---
 
-## 🧠 AI & Modern 3D Tools
-
-With the advancement of computing and large language models (LLMs), several AI-assisted platforms have emerged to simplify and elevate 3D modeling workflows. Besides the Unity that I use for this project, I also highly recommend the following options to try with AI for mesh refinement, texture enhancement, and rapid prototyping:
-
-- [Tripo3D.ai](https://www.tripo3d.ai/app/)
-- [Artefacts.ai](https://artefacts.ai/)
-- [Meshy AI](https://www.meshy.ai/discover)
-- [Genie](https://lumalabs.ai/genie?view=create)
-- [Spline AI](https://spline.design/)
-- [Sudo AI](https://www.sudo.ai/)
-- [3d.csm.ai](https://3d.csm.ai/)
-- [Imagine 3D](https://lumalabs.ai/dashboard/imagine)
-
-These platforms complement traditional Unity modeling and offer support for:
-
-- Photogrammetry-to-mesh pipelines
-- Prompt-based shape generation
-- Automatic UV/texturing and remeshing
-- LLM-guided material assignment
-
----
-
 ## 📁 Files & Organization
 
 The models are organized into series folders based on building types and views.
@@ -81,4 +59,26 @@ Do you have a Cornell building you’d like added? You can submit your idea via 
 ## 📷 Preview
 📸 Model previews and rendered views are available in the `images/` directory._
 
+
+## 🧠 AI & Modern 3D Tools
+
+With the advancement of computing and large language models (LLMs), several AI-assisted platforms have emerged to simplify and elevate 3D modeling workflows. Besides the Unity that I use for this project, I also highly recommend the following options to try with AI for mesh refinement, texture enhancement, and rapid prototyping:
+
+- [Tripo3D.ai](https://www.tripo3d.ai/app/)
+- [Artefacts.ai](https://artefacts.ai/)
+- [Meshy AI](https://www.meshy.ai/discover)
+- [Genie](https://lumalabs.ai/genie?view=create)
+- [Spline AI](https://spline.design/)
+- [Sudo AI](https://www.sudo.ai/)
+- [3d.csm.ai](https://3d.csm.ai/)
+- [Imagine 3D](https://lumalabs.ai/dashboard/imagine)
+
+These platforms complement traditional Unity modeling and offer support for:
+
+- Photogrammetry-to-mesh pipelines
+- Prompt-based shape generation
+- Automatic UV/texturing and remeshing
+- LLM-guided material assignment
+
+---
 
