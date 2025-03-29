@@ -10,7 +10,7 @@
 - 人类生态学大楼（Human Ecology Building）：这座建筑体现了可持续与教育艺术的结合，采用环保设计，拥有绿色屋顶和高效能量系统。  ￼
 
 
-我使用了Unity建模，但是随着计算机的发展，很多 3D platforms that usually use with LLM includes:
+我使用了Unity建模to replicate some famous buildings in Cornell，但是随着计算机的发展，很多 3D platforms that usually use with LLM includes:
 - [Tripo3d.ai](https://www.tripo3d.ai/app/)
 - [Artefacts.ai](https://artefacts.ai/)
 - [Meshy AI](https://www.meshy.ai/discover)
